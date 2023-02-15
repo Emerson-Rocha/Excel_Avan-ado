@@ -1,4 +1,4 @@
-# Excel_Avan-ado
+# Excel_Avançado
 Curso Livre com os principais comando:
 Função Financeiras;
 Função de Informações;
